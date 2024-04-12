@@ -4,7 +4,7 @@ import socket
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect(("localhost", 9090))
 
-file_name = "CH10.pdf"
+file_name = "image.png"
 file_size = os.path.getsize(file_name)
 
 # Sending file name and file size separately
