@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/mnt/HARD DISK/socket/env"
+VIRTUAL_ENV="/mnt/HARD DISK/Code_Only/FileTransfer/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

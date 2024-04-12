@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/mnt/HARD DISK/socket/env/bin/python" "$0" "$@"
+'''exec' "/mnt/HARD DISK/Code_Only/FileTransfer/env/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
